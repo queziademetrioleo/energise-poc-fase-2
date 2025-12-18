@@ -41,6 +41,40 @@ This document contains updated technical, procedural, and regulatory information
 3. General system guidelines
 
 ---
+## SUPPORT LINKS
+
+These are support links that can be used by the customer:
+
+### Descomplicador
+Link: **dabliu dabliu dabliu ponto descomplicador ponto com ponto be erre**
+
+**When to use:** Customer wants to understand the bill or learn how to save energy.
+
+**What it's for:**
+* Explain the invoice
+* Answer general questions
+* See energy saving tips
+
+**Not for:**
+* Complaints
+* Bill corrections
+* Service requests
+
+---
+
+### Programa Energia Social – Conta de Luz Zero (MS)
+Link: **dabliu dabliu dabliu ponto energia social ponto eme és ponto gove ponto be erre**
+
+**When to use:** Mato Grosso do Sul customer lost the Conta de Luz Zero benefit.
+
+**What it's for:**
+* Re-register
+* See program rules
+* Understand why the bill is being charged again
+
+**Important:** This is a Government website, not Energisa's.
+
+---
 
 ## COMMUNICATION STYLE
 
